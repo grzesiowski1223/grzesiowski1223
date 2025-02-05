@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 My peronal site at [(OUTDATED) nerdnetwork.xyz]((OUTDATED) nerdnetwork.xyz)
+- 📝 My peronal site at [https://nerdnetwork.infy.uk](https://nerdnetwork.infy.uk)
 
 - 💬 Ask me about **Html5/CSS**
 
