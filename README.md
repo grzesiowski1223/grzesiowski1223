@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm grzesiowski1223</h1>
-<h3 align="center">A IT school Student <br>「 “ reality is lemons and the internet's my lemonade ” 」</h3>
+<h3 align="center">A IT school Student <br>「 “ Reality is lemons and the internet's my lemonade ” 」</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grzesiowski1223&label=Profile%20views&color=1a8a0d&style=plastic" alt="grzesiowski1223" /> </p>
 
