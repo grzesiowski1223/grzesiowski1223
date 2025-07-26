@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[Linkedin]([https://nerdnetwork.infy.uk/main](https://www.linkedin.com/in/grzegorz-winnicki-1a20b0319/)) 
+On [Linkedin]([https://nerdnetwork.infy.uk/main](https://www.linkedin.com/in/grzegorz-winnicki-1a20b0319/)) 
 
 <p align="left">
 </p>
