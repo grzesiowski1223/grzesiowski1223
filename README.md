@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 My peronal site at [https://nerdnetwork.infy.uk](https://nerdnetwork.infy.uk) and [https://nerdnetwork.infy.uk/main](https://nerdnetwork.infy.uk/main)
+- 📝 My peronal site at [https://nerdnetwork.infy.uk](https://nerdnetwork.infy.uk) and[https://nerdnetwork.infy.uk/main](https://nerdnetwork.infy.uk/main)
 
 - 💬 Ask me about **Html5/CSS**
 
@@ -18,6 +18,9 @@
 - ⚡ Fun fact **Anime / Feudal Japan fan**
 
 <h3 align="left">Connect with me:</h3>
+
+[Linkedin]([https://nerdnetwork.infy.uk/main](https://www.linkedin.com/in/grzegorz-winnicki-1a20b0319/)) 
+
 <p align="left">
 </p>
 
