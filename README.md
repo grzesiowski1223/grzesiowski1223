@@ -11,7 +11,7 @@
 
 - 📝 My peronal site at [https://nerdnetwork.infy.uk](https://nerdnetwork.infy.uk) and[https://nerdnetwork.infy.uk/main](https://nerdnetwork.infy.uk/main)
 
-- 💬 Ask me about **Html5/CSS**
+- 💬 Ask me about **Html5/CSS , Linux etc**
 
 - 📫 How to reach me **grzesiowski1223 [on Discord]**
 
