@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 My peronal site at [https://nerdnetwork.page.gd](https://nerdnetwork.page.gd) and[https://nerdnetwork.page.gd/main](https://nerdnetwork.page.gd/main)
+- 📝 My peronal site at [https://nerdnetwork.page.gd](https://nerdnetwork.page.gd) and [https://nerdnetwork.page.gd/main](https://nerdnetwork.page.gd/main)
 
 - 💬 Ask me about **Html5/CSS , Linux etc**
 
