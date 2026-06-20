@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [UmbraLinux](https://github.com/grzesiowski1223/UmbraLinux)
 
-- 👨‍💻 I’m currently maintaining [OpenServerService](https://github.com/grzesiowski1223/openserverservice)
+- 👨‍💻 I’m currently maintaining [sshTUI](https://github.com/grzesiowski1223/sshTUI)
 
 - 🌱 I’m currently learning **JavaScript**
 
