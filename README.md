@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm grzesiowski1223</h1>
-<h3 align="center">A IT Tech school Student <br>「 “ Reality is lemons and the internet's my lemonade ” 」</h3>
+<h3 align="center">A IT Tech school Student aspiring Network Administrator / Sysadmin <br>「 “ Reality is lemons and the internet's my lemonade ” 」</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grzesiowski1223&label=Profile%20views&color=1a8a0d&style=plastic" alt="grzesiowski1223" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently maintaining [sshTUI](https://github.com/grzesiowski1223/sshTUI)
 
-- 🌱 I’m currently learning **Networks**
+- 🌱 I’m currently learning **Clang and Networking**
 
 - 📝 My peronal site at [https://nerdnetwork.page.gd](https://nerdnetwork.page.gd) and [https://nerdnetwork.page.gd/main](https://nerdnetwork.page.gd/main)
 
