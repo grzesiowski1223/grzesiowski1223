@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently maintaining [sshTUI](https://github.com/grzesiowski1223/sshTUI)
 
-- 🌱 I’m currently learning **Clang and Networking**
+- 🌱 I’m currently learning **C and Networking**
 
 - 📝 My peronal site at [https://nerdnetwork.page.gd](https://nerdnetwork.page.gd) and [https://nerdnetwork.page.gd/main](https://nerdnetwork.page.gd/main)
 
